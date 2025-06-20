@@ -1,4 +1,3 @@
-public class Creature {
-    void run() {
-    }
+public interface Creature {
+    void run() ;
 }
